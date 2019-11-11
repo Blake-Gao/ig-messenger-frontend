@@ -1,0 +1,1 @@
+export const SET_DIRECT_INBOX = 'SET_DIRECT_INBOX'
